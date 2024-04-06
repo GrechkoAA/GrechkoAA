@@ -6,7 +6,7 @@ My name is Anatoly Grechko, I am a Unity developer.
 
 I am a professional passionate about software development who likes to learn new things every day as well as to keep up to date with new advances in technology.
 
-## Latest projects
+## Latest Projects
 [![BUS](https://img.shields.io/badge/-BUS-090909?style=for-the-badge&logo=bus&logoColor=B4068E)](https://store.steampowered.com/app/2852700/BUS_Bro_u_Survived/)
 [![Plus.City](https://img.shields.io/badge/-Plus.City-090909?style=for-the-badge&logo=bus&logoColor=B4068E)](https://play.google.com/store/apps/details?id=com.yandex.mobile.plus.game.city&hl=ru&gl=US&pli=1)
 
