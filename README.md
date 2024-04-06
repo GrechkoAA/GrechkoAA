@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/GrechkoAA/GrechkoAA/blob/main/assets/banner.png)]
 
 Hello there!
 
