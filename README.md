@@ -1,8 +1,10 @@
-![Header](https://github.com/GrechkoAA/GrechkoAA/blob/main/assets/MyPorjcts.gif)
+![](./assets/MyPorjcts.gif)
 
-Hello there!
+## About Me
 
-About Me
+My name is Anatoly Grechko, I am a Unity developer.
+
+I am a professional passionate about software development who likes to learn new things every day as well as to keep up to date with new advances in technology.
 
 ## My Skills 💻
 
