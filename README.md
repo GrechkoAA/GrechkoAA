@@ -1,4 +1,4 @@
-![](./assets/MyPorjcts.gif)
+<div style="text-align:center"><img src="/assets/MyPorjcts.gif"/></div>
 
 ## About Me
 
