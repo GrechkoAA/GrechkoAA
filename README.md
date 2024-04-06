@@ -1,4 +1,4 @@
-![Header](https://github.com/GrechkoAA/GrechkoAA/blob/main/assets/banner.png)
+![Header](https://github.com/GrechkoAA/GrechkoAA/blob/main/assets/583d0a99994d413288124cf5a72ef831.gif)
 
 Hello there!
 
