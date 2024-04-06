@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/assets/MyPorjcts.gif"/></div>
+<p align="center" width="100%">
+    <img width="33%" src="/assets/MyPorjcts.gif"> 
+</p>
 
 ## About Me
 
