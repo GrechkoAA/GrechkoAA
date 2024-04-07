@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="/assets/Banner_Test.gif"> 
+    <img src="/assets/Banner_Test2.gif"> 
 </p>
 
 ## About Me
