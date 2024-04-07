@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="/assets/C-_Users_grech_Desktop_Banner_test3.gif"> 
+    <img src="/assets/Banner_test31.gif"> 
 </p>
 
 ## About Me
