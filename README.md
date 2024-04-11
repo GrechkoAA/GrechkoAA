@@ -21,8 +21,8 @@ I am a professional passionate about software development who likes to learn new
 [![Zenject](https://img.shields.io/badge/Zenject-blue?style=for-the-badge&logo=zenject&logoColor=white)](https://github.com/modesttree/Zenject)
 [![VContainer](https://img.shields.io/badge/VContainer-brown?style=for-the-badge&logo=zenject&logoColor=white)](https://github.com/hadashiA/VContainer)
 [![DOTWeen](https://img.shields.io/badge/DOTWeen-purple?style=for-the-badge&logo=dotween&logoColor=white)](https://dotween.demigiant.com/)
-[![Odin](https://img.shields.io/badge/Odin-yellow?style=for-the-badge&logo=odin&logoColor=white)](https://odininspector.com/)
-[![Photone Fusion](https://img.shields.io/badge/Fusion-50FF80?style=for-the-badge&logo=fusion&logoColor=white)](https://www.photonengine.com/Fusion)
+[![Odin](https://img.shields.io/badge/Odin-FFA500?style=for-the-badge&logo=odin&logoColor=white)](https://odininspector.com/)
+[![Photone Fusion](https://img.shields.io/badge/Fusion-4121cb?style=for-the-badge&logo=fusion&logoColor=white)](https://www.photonengine.com/Fusion)
 [![FMOD](https://img.shields.io/badge/FMOD-008080?style=for-the-badge&logo=fusion&logoColor=white)](https://www.fmod.com/)
 
 [![Figma](https://img.shields.io/badge/figma-%2331A8FF.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
