@@ -23,6 +23,7 @@ I am a professional passionate about software development who likes to learn new
 [![DOTWeen](https://img.shields.io/badge/DOTWeen-purple?style=for-the-badge&logo=dotween&logoColor=white)](https://dotween.demigiant.com/)
 [![Odin](https://img.shields.io/badge/Odin-yellow?style=for-the-badge&logo=odin&logoColor=white)](https://odininspector.com/)
 [![Photone Fusion](https://img.shields.io/badge/Fusion-indigo?style=for-the-badge&logo=fusion&logoColor=white)](https://www.photonengine.com/Fusion)
+[![FMOD](https://img.shields.io/badge/FMOD-008080?style=for-the-badge&logo=fusion&logoColor=white)](https://www.photonengine.com/Fusion)
 
 [![Figma](https://img.shields.io/badge/figma-%2331A8FF.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-brown.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
